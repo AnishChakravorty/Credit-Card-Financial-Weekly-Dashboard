@@ -1,12 +1,16 @@
 # Credit-Card-Financial-Weekly-Dashboard
 
+![image](https://github.com/user-attachments/assets/d937fce6-4444-47a8-8e14-1b476831c041)
+![image](https://github.com/user-attachments/assets/9eb61914-3748-4e5c-aed7-84b76789adf8)
+![image](https://github.com/user-attachments/assets/d8d00f8b-c5f8-4d51-96d4-f4c886e8bf7e)
+
+
 ## Table of Contents
 1. [Project Objective](#project-objective)
 2. [Tools Used](#tools-used)
 3. [SQL Queries](#sql-queries)
 4. [Data Processing & DAX](#data-processing--dax)
-5. [Dashboard](#dashboard)
-6. [Insights](#dashboard)
+5. [Insights](#dashboard)
 
 
 ## Project Objective
@@ -138,12 +142,6 @@ Previous_week_Reveneue = CALCULATE(
     )
 )
 ```
-
-## Dashboard
-
-![image](https://github.com/user-attachments/assets/d937fce6-4444-47a8-8e14-1b476831c041)
-![image](https://github.com/user-attachments/assets/9eb61914-3748-4e5c-aed7-84b76789adf8)
-![image](https://github.com/user-attachments/assets/d8d00f8b-c5f8-4d51-96d4-f4c886e8bf7e)
 
 ## Insights 
 
