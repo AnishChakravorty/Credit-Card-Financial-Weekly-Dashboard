@@ -10,7 +10,7 @@
 2. [Tools Used](#tools-used)
 3. [SQL Queries](#sql-queries)
 4. [Data Processing & DAX](#data-processing--dax)
-5. [Insights](#dashboard)
+5. [Insights](#insights)
 
 
 ## Project Objective
